@@ -1,6 +1,7 @@
 Hello this is the first file
 
 
-Adding a new line.
+Adding a new line
 
-Modifying the file to create a conflict
+
+modified on remote
